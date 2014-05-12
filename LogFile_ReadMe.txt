@@ -1,0 +1,1 @@
+MFC Example of a logging class written in VC++ 6.0
